@@ -1,0 +1,12 @@
+D:\Net\Buoi5\BT4\bin\Debug\BT4.exe.config
+D:\Net\Buoi5\BT4\bin\Debug\BT4.exe
+D:\Net\Buoi5\BT4\bin\Debug\BT4.pdb
+D:\Net\Buoi5\BT4\obj\Debug\BT4.csproj.AssemblyReference.cache
+D:\Net\Buoi5\BT4\obj\Debug\BT4.csproj.SuggestedBindingRedirects.cache
+D:\Net\Buoi5\BT4\obj\Debug\BT4.Form1.resources
+D:\Net\Buoi5\BT4\obj\Debug\BT4.Properties.Resources.resources
+D:\Net\Buoi5\BT4\obj\Debug\BT4.csproj.GenerateResource.cache
+D:\Net\Buoi5\BT4\obj\Debug\BT4.csproj.CoreCompileInputs.cache
+D:\Net\Buoi5\BT4\obj\Debug\BT4.exe
+D:\Net\Buoi5\BT4\obj\Debug\BT4.pdb
+D:\Net\Buoi5\BT4\obj\Debug\BT4.Form2.resources
